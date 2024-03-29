@@ -1,8 +1,6 @@
---extra-index-url https://download.pytorch.org/whl/cu102
 Cython
 hyperopt
 numpy
-torch==1.13.0+cu116
 tensorflow
 tqdm
 scipy
